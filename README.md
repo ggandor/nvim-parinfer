@@ -1,4 +1,9 @@
-# nvim-parinfer
+# nvim-parinfer (WIP)
+
+**NOTE:** I have noticed some strage bugs (in indent and smart mode at least),
+and currently I do not have the time to hunt them down - the problem may be in
+the Lua library itself - , so consider this as WIP for the moment (or use it at
+your own risk).
 
 Fast and light [parinfer](https://shaunlebron.github.io/parinfer/) plugin for
 Neovim.
